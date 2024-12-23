@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a **Computer Engineer** passionate about crafting impactful software solutions and mastering cutting-edge technologies. 🚀  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200" alt="coding animation">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="250" alt="coding animation">
 </div>
 
 ## 🚀 About Me
@@ -53,4 +53,4 @@ Welcome to my GitHub profile! I'm a **Computer Engineer** passionate about craft
   </a>
 </div>
 
-### 🌟 Thanks for stopping by! Let's build something amazing together. 😊
+### 🌟 Thanks for visiting my profile!😊
