@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a **Computer Engineer** passionate about crafting impactful software solutions and mastering cutting-edge technologies. 🚀  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmatha19&label=Profile%20views&color=0e75b6&style=flat" alt="sahilmatha19" /> </p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200" alt="coding animation">
 </div>
