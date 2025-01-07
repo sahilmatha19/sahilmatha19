@@ -35,8 +35,8 @@ Welcome to my GitHub profile! I'm a **Computer Engineer** passionate about craft
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilmatha19&show_icons=true&layout=compact&theme=dracula" alt="Top Languages" width="400">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilmatha19&show_icons=true&theme=dracula" alt="GitHub Stats" width="400">
+<!--   <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilmatha19&show_icons=true&theme=dracula" alt="GitHub Stats" width="400"> -->
 </p>
 
 ## 📫 Connect with me 
