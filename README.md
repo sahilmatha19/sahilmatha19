@@ -1,6 +1,6 @@
-# Hi there, I'm Sahil Matha! 👋
+# Hi there, I'm Sahil Matha!👋
 
-Welcome to my GitHub profile! I'm a **Computer Engineer** passionate about building innovative and scalable software solutions that solve real-world problems. With a strong foundation in cutting-edge technologies, I aim to make an impactful contribution to the tech world. 🚀  
+Welcome to my GitHub profile! I'm a **Computer Engineer** passionate about building innovative and scalable software solutions that solve real-world problems. With a strong foundation in cutting-edge technologies, I aim to make an impactful contribution to the tech world.🚀  
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200" alt="Coding Animation">
